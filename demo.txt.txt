@@ -3,7 +3,3 @@ hello
 riaz
 
 test
-
-hi
-kk
-kk
